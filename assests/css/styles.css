@@ -1,0 +1,65 @@
+.profile-info{
+    overflow:hidden;
+}
+ 
+.profile-photo{
+    float:left;
+}
+ 
+.profile-photo img{
+    width:40px; height:40px;
+}
+ 
+.profile-name{
+    float:left; margin:0 0 0 .5em;
+}
+
+.profile-name a{
+    font-size: 14px;
+    font-weight: bold;
+    color: #3b5998;
+    cursor: pointer;
+    text-decoration: none;
+}
+ 
+.time-ago{
+    color:#999;
+}
+ 
+.profile-message{
+    margin:1em 0;
+}
+ 
+.post-link{
+    text-decoration:none;
+}
+ 
+.post-content{
+    background: #f6f7f9; border: 1px solid #d3dae8; overflow:hidden;
+}
+ 
+.post-content img{
+    max-width:100%;
+}
+ 
+.post-status{
+    margin:.5em; font-weight:bold;
+}
+ 
+.post-picture{
+    width:25%; 
+    float:left;    
+    height: 15%;
+}
+ 
+.post-info{
+    width:70%; float:left; margin:.5em;
+}
+ 
+.post-info-name{
+    font-weight:bold;
+}
+ 
+.post-info-description{
+    color:#999;
+}
